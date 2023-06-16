@@ -23,8 +23,8 @@ pt-br - Essa é uma solução do [Desafio do componente no Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Link da Solução](https://your-solution-url.com)
-- Live Site URL: [Site no GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [Link da Solução](https://github.com/rickreisme/QRCodePage)
+- Live Site URL: [Site no GitHub Pages](https://rickreisme.github.io/QRCodePage/)
 
 ## My process
 
