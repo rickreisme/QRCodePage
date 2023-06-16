@@ -35,5 +35,5 @@ pt-br - Essa é uma solução do [Desafio do componente no Frontend Mentor](http
 
 ## Author
 
-- GitHub - [RickReis](https://www.your-site.com)
-- Frontend Mentor - [@rickreisme](https://github.com/rickreisme)
+- GitHub - [RickReis](https://github.com/rickreisme)
+- Frontend Mentor - [@rickreisme](https://www.frontendmentor.io/profile/rickreisme)
